@@ -11,3 +11,9 @@ git push origin <rama>
 Para descargarlo y/o actualizar ern local:
 
 git pull origin <rama>
+
+Para descargar el repositorio completo de github:
+
+git clone <url>
+
+Y nos descargara una carpeta con el contenido.
