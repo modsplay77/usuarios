@@ -12,6 +12,7 @@ Para descargarlo y/o actualizar ern local:
 
 git pull origin <rama>
 
+
 Para descargar el repositorio completo de github:
 
 git clone <url>
