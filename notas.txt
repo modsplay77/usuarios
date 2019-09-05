@@ -1,0 +1,8 @@
+Para decirle a git la url donde subir nuestro repositorio:
+
+git remote add origin https://github.com/modsplay77/usuarios.git
+
+
+Subirlo:
+
+git push origin <rama>
