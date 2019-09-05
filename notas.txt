@@ -18,3 +18,19 @@ Para descargar el repositorio completo de github:
 git clone <url>
 
 Y nos descargara una carpeta con el contenido.
+
+
+configuracion del config de git para el sendmail:
+[user]
+	name = Albert Arbiol
+        email = modsplay90@gmail.com
+	
+	
+	[sendemail]
+        smtpencryption = ssl
+        smtpServer = smtp.gmail.com
+        smtpUser = modsplay90@gmail.com
+        smtpserverport = 465
+        smtppass = humatjydbcxkekub
+	
+	
