@@ -6,7 +6,7 @@
       <title>Formulario PHP: ficheros</title>
       <link rel="stylesheet" type="text/css" media="screen" href="estilos.css">	
    
-		//comentario desde github
+		/*comentario desde github*/
 
 	   
 	   <meta name="viewport" content="width=device-width, initial-scale=1.0">
